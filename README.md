@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hakelion
-- 👀 I’m interested in Javascript, node.js and Vue.js
+- 👀 I’m interested in PHP, Javascript, node.js and Vue.js
 - 🌱 I’m currently learning Node.js
 - 📫 How to reach me my <a href="https://www.instagram.com/hakim.v.amir/">instagram</a>
 
